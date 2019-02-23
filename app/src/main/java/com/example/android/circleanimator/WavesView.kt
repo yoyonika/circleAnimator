@@ -65,6 +65,8 @@ class WavesView
             }
         }
 
+
+
 //        override fun onDetachedFromWindow() {
 //            waveAnimator?.cancel()
 //            super.onDetachedFromWindow()
